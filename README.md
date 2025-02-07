@@ -1,4 +1,4 @@
-# MedalWatermarkRemover
+# MedalTVWatermarkRemover
 
 Medal.tv Desktop App Watermark Remover for Windows 10/11.
 
@@ -20,7 +20,7 @@ Medal.tv Desktop App Watermark Remover for Windows 10/11.
 
 - Clone the repository or download the source code.
 
-- ```git clone https://github.com/WindowsAPI/MedalWatermarkRemover.git```
+- ```git clone https://github.com/WindowsAPI/MedalTVWatermarkRemover.git```
   
 - cd MedalWatermarkRemover
 
