@@ -59,3 +59,5 @@ Medal.tv Desktop App Watermark Remover for Windows 10/11.
 - If you encounter permission errors, try running the script as an administrator.
 
 # This project is for educational and research purposes only. I am not responsible for any misuse of this software. By using this tool, you agree that you are solely responsible for any consequences that may arise.
+
+![MedalTVWatermarkRemover Demo](https://i.gyazo.com/b45f24dee04fc6ce0eef7c84bd31d226.gif)
